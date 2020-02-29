@@ -5,4 +5,4 @@ A játék a jól ismert rajzfilm alapján készült el. A főszereplőnk egy mac
 
 
 ![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+Format: ![Alt Text](file:///C:/Users/Nashnoush%20%C3%81d%C3%A1m/Pictures/tomj.PNG)
